@@ -5,8 +5,10 @@ The items listed here will prepare you well for a technical interview at just ab
 * [Nick-White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA)
 * [Knowledge-Center](https://www.youtube.com/channel/UCMn3_305DqmTylxJPFA8OJA)
 * [Kevin-Naughton-Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g)
+* [Aditya verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ)
+* [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 
-Important link:
+# Important link:
 * [LeetCode](https://leetcode.com)
 * [CodeChef](https://www.codechef.com)
 * [CodeFroces](https://codeforces.com)
@@ -19,13 +21,22 @@ Important link:
 
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
 - [Pick One Language for the Interview](#pick-one-language-for-the-interview)
-- [Algorithmic complexity / Big-O / Asymptotic analysis](#)
-- [Data Structures](#)
+- [Algorithmic complexity / Big-O / Asymptotic analysis](https://github.com/AtulRaj151/AlgoWareHouse/tree/master/1-Algorithmic-complexity)
+- [STL](https://github.com/AtulRaj151/AlgoWareHouse/tree/master/2-STL)  
+- [Pointer]() 
+- [Data Structures](https://github.com/AtulRaj151/AlgoWareHouse/tree/master/4-Data-Structure)
     - [Arrays](#)
     - [Linked Lists](#)
     - [Stack](#)
     - [Queue](#)
     - [Hash table](#)
+- [Bit manipulation](https://github.com/AtulRaj151/AlgoWareHouse/tree/master/5-Bit-Manipulation)
+- [Number Theory](https://github.com/AtulRaj151/AlgoWareHouse/tree/master/6-Number-Theory)
+- [Recursion](https://github.com/AtulRaj151/AlgoWareHouse/tree/master/7-Recursion)
+- [Binary search and divide & Conquer](https://github.com/AtulRaj151/AlgoWareHouse/tree/master/8-Binary-search(Divide%20%26%20Conquer))
+- [Greedy Alogrithm](https://github.com/AtulRaj151/AlgoWareHouse/tree/master/9-Greedy-Alogrithm)
+- [Dynamic Programming](https://github.com/AtulRaj151/AlgoWareHouse/tree/master/10-Dynamic-Programming)
+- [Graph Alogrithm](https://github.com/AtulRaj151/AlgoWareHouse/tree/master/11-Graph-Alogrithm) 
 
 
 ## Interview Process & General Interview Prep

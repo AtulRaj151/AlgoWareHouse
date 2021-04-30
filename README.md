@@ -2,11 +2,12 @@
 The items listed here will prepare you well for a technical interview at just about any software company, including the giants: Amazon, Facebook, Google, and Microsoft.
 
 # Important YouTube Channels:
-* [Nick-White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA)
+* [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 * [Knowledge-Center](https://www.youtube.com/channel/UCMn3_305DqmTylxJPFA8OJA)
+* [Nick-White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA)
 * [Kevin-Naughton-Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g)
 * [Aditya verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ)
-* [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+
 
 # Important link:
 * [LeetCode](https://leetcode.com)

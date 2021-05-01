@@ -3,7 +3,7 @@
 <h5>Bit manipulation</h5> is the act of algorithmically manipulating bits using bit-level (bitwise) operations. These bitwise operations are the heart of bit manipulation. They are primitive, fast actions that are used in improving the efficiency of a program.
 
 
-<h5>Bit mask</h5>: A bitmask is the data used for bitwise operations, particularly in a bit field. Using a mask, bits can be set either on/off or vice versa in a single bitwise operation.
+<h5>Bit mask</h5> A bitmask is the data used for bitwise operations, particularly in a bit field. Using a mask, bits can be set either on/off or vice versa in a single bitwise operation.
 
 # Application of Bit Operators
 
@@ -15,35 +15,35 @@
 
 # Bit Wise Operators
 
-- AND operator (&):
-    0 & 1 = 0
-    1 & 0 = 0
-    0 & 0 = 0
-    1 & 1 = 1
+- AND operator (&):</br>
+    0 & 1 = 0</br>
+    1 & 0 = 0</br>
+    0 & 0 = 0</br>
+    1 & 1 = 1</br>
 
-- OR operator (|):
-    0 | 1 = 1
-    1 | 0 = 1
-    1 | 1 = 1
-    0 | 0 = 0
+- OR operator (|):</br>
+    0 | 1 = 1</br>
+    1 | 0 = 1</br>
+    1 | 1 = 1</br>
+    0 | 0 = 0</br>
 
-- XOR operator (^):
-    0 ^ 0 = 0
-    1 ^ 1 = 0
-    1 ^ 0 = 1
-    0 ^ 1 = 1
+- XOR operator (^):</br>
+    0 ^ 0 = 0</br>
+    1 ^ 1 = 0</br>
+    1 ^ 0 = 1</br>
+    0 ^ 1 = 1</br>
 
-- NOT operator (~):
-    ~0 = 1
-    ~1 = 0
+- NOT operator (~):</br>
+    ~0 = 1</br>
+    ~1 = 0</br>
 
-- Right Shift (>>): Add Zero at the left 
-    0010 >> 1 = 0100 (Multiple By 2)
-    0010 >> 2 = 1000 
+- Right Shift (>>): Add Zero at the left </br>
+    0010 >> 1 = 0100 (Multiple By 2)</br>
+    0010 >> 2 = 1000 </br>
 
-- Left Shift (<<): Add Zero at the right
-    0010 << 1 = 0001 (Divide By 2)
-    0100 << 2 = 0001
+- Left Shift (<<): Add Zero at the right</br>
+    0010 << 1 = 0001 (Divide By 2)</br>
+    0100 << 2 = 0001</br>
 
 ## UseFull Tricks 
 # Swap two number 
